@@ -1,5 +1,5 @@
 ## Joe Richards
-[(assets/1.png)]
+<img src="./assets/1.png" alt="solidity" width="70%" height="40"/>
 (assets/2.png)
 ## My Projects
 (assets/3.png)
