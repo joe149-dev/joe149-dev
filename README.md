@@ -1,7 +1,10 @@
 ## Joe Richards
-(assets/img/1.png)
-(assets/img/2.png)
-## PROJECTS
-(assets/img/3.png)
-(assets/img/4.png)
-(assets/img/5.png)
+(assets/1.png)
+(assets/2.png)
+## My Projects
+(assets/3.png)
+(assets/4.png)
+(assets/5.png)
+## My Skills
+
+React, Node.js, ASP.NET, Angular, Django, Laravel, Next.js, MongoDB, JSON, MySQL, PostgreSQL, AWS S3
