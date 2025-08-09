@@ -1,10 +1,10 @@
 ## Joe Richards
-<img src="./assets/1.png" alt="solidity" width="70%" height="40"/>
-(assets/2.png)
+<img src="./assets/1.png" alt="solidity" width="100%" height="280"/>
+<img src="./assets/2.png" alt="solidity" width="100%" height="280"/>
 ## My Projects
-(assets/3.png)
-(assets/4.png)
-(assets/5.png)
+<img src="./assets/3.png" alt="solidity" width="100%" height="280"/>
+<img src="./assets/4.png" alt="solidity" width="100%" height="280"/>
+<img src="./assets/5.png" alt="solidity" width="100%" height="280"/>
 ## My Skills
 
 React, Node.js, ASP.NET, Angular, Django, Laravel, Next.js, MongoDB, JSON, MySQL, PostgreSQL, AWS S3
