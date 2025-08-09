@@ -1,5 +1,5 @@
 ## Joe Richards
-(assets/1.png)
+[(assets/1.png)]
 (assets/2.png)
 ## My Projects
 (assets/3.png)
