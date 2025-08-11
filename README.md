@@ -1,6 +1,7 @@
 # About Me
 
 Having more than 8+ extensive experiences in Software Design and Development with role of Lead web developer, PHP/UX architect for dozens of commercial sites in various Web technologies (PHP, Perl, Python, Full Stack, AWS, Cloud computing, Devops task,CICD, Angularjs, Reactjs, Vuejs,nextjs, any PHP CMS, ANY php framework, Flask, Fastapi, Django, Drupal, Wordpress, Joomla, Laravel, Mean Stack, and MERN Stack with different library/frameworks of JavaScript as well as PHP). Worked on real-time web applications, complex back-end management systems, content management, e-commerce. Eager to develop unique complex challenging web concepts. Enjoy learning new languages, technologies and ideas.
+</br>
 Specialties: 
 • Web site development with security access 
 • Open Source Technologies 
